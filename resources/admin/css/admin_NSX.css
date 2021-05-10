@@ -1,0 +1,10 @@
+/**Edits by Mike Volo
+Jan, 2021
+*/
+[class*=sidebar-dark-] {
+    background-color: #44276c;
+}
+
+.form-check-label {
+	font-weight: 700;
+}

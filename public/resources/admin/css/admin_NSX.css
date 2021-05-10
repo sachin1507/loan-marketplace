@@ -1,0 +1,29 @@
+/**Edits by Mike Volo
+Jan, 2021
+*/
+[class*=sidebar-dark-] {
+    background-color: #44276c;
+}
+
+.form-check-label {
+	font-weight: 700;
+}
+
+.nav-sidebar .nav-link>span.pull-right-container {
+    position: absolute;
+    right: 1rem;
+    top: .7rem;
+}
+
+.box.box-success {
+    background-color: #ffffff;
+    padding: 1.25rem;
+}    
+
+.panel-body.table-responsive {
+	background-color: #ffffff;
+}
+
+.dataTables_wrapper {    
+    padding: 10px;
+}
